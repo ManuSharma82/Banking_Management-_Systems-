@@ -51,3 +51,28 @@ Last Name: Sharma
 Account Number: 1
 Balance: 1000
 
+
+
+
+📦 How to Run
+Clone the repository:
+git clone https://github.com/yourusername/banking-management-system.git
+cd banking-management-system
+
+Compile the C++ code:
+g++ banking_system.cpp -o bank
+
+Run the executable:
+./bank
+Note: Make sure you have g++ installed. You can use any C++ compiler (Code::Blocks, VS Code, Turbo C++, etc.)
+
+📌 Requirements
+A C++ compiler (e.g., g++, clang++)
+
+Basic knowledge of OOP in C++
+
+✍️ Author
+Manu Sharma
+🔗 LinkedIn-manusharma82
+📧 manusharma8164@gmail.com
+
